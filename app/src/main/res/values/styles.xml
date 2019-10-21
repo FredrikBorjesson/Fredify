@@ -8,10 +8,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="PrimaryButton" parent="Theme.AppCompat.Light">
-        <item name="colorButtonNormal">@color/colorButtonNormal</item>
+    <style name="PrimaryButton" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorButtonNormal">@color/primaryButtonColor</item>
         <item name="colorControlHighlight">@color/white</item>
-        <item name="android:background">@drawable/rounded_corners</item>
+    </style>
+
+    <style name="AlternativeButton" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorButtonNormal">@color/white</item>
+        <item name="colorControlHighlight">@color/gray</item>
     </style>
 
 </resources>

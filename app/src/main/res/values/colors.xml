@@ -3,7 +3,8 @@
     <color name="colorPrimary">#000000</color>
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#000000</color>
-    <color name="colorButtonNormal">#0066ff</color>
-    <color name="colorButtonHighlighted">#000000</color>
+    <color name="primaryButtonColor">#1a75ff</color>
+    <color name="listSelectColor">#bfbfbf</color>
     <color name="white">#ffffff</color>
+    <color name="gray">#666666</color>
 </resources>
